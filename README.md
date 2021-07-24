@@ -3,7 +3,7 @@
   <samp>
     :wave: Hello World! -- @fazevaib
     <br> I'm a Masters in CS student at University of Southern California.
-    <br> My current focus is on ML in Medical field and Business Development.
+    <br> My current focus is on ML in Medical field and Natural Language Processing.
     <br> Open for collaborations in ML projects :raised_hands:
      <br>
     <br> Interests: Football, travel, Gaming & Anime. :sparkles:<br>
